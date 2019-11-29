@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-No, sor
+No, sor.
